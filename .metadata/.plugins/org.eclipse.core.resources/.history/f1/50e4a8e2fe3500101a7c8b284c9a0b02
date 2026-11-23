@@ -1,0 +1,6 @@
+spring.application.name=feedback_form_submission
+
+spring.datasource.url=
+spring.datasource.username=root
+spring.datasource.password=cyber
+

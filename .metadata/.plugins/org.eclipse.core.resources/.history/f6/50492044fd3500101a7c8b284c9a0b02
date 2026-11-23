@@ -1,0 +1,5 @@
+package com.feedback.repository;
+
+public interface FeedbackRepository {
+
+}
